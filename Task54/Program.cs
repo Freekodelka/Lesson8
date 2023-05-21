@@ -9,7 +9,7 @@
 9 5 3 2
 8 4 4 2 */
 
-int[,] matrix = new int[4, 4];
+int[,] matrix = new int[10, 10];
 
 void PrintArray(int[,] matrix)
 {
